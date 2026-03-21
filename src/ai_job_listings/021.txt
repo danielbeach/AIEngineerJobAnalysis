@@ -1,0 +1,121 @@
+This role is responsible for architecting, building, and deploying a production-grade AI operating system that automates core workflows across leasing, property management, accounting, construction coordination, and asset management.
+
+
+The engineer will design and implement AI agents, document intelligence systems, and workflow automation pipelines that reduce manual processing, improve accuracy, and increase operational scalability across a commercial real estate portfolio.
+
+
+This position requires strong systems thinking, rigorous technical execution, and the ability to translate complex operational processes into reliable automation.
+
+
+Core Objectives
+
+Build an internal AI platform that automates high-volume operational workflows
+Reduce manual processing time and administrative overhead
+Improve accuracy, speed, and decision visibility across departments
+Establish scalable systems that support portfolio growth without proportional staffing increases
+
+
+Primary Responsibilities
+
+AI Platform Architecture & Development
+Design and deploy AI agents to automate operational and administrative workflows
+Build LLM-powered systems for document review, data extraction, and decision support
+Develop retrieval-based systems leveraging leases, financial data, contracts, and SOPs
+Implement evaluation, monitoring, and continuous improvement frameworks
+
+
+Lease & Document Intelligence Automation
+
+Build tools to extract key lease terms, obligations, and risk clauses
+Automates lease abstraction and document comparison workflows
+Develop compliance and deadline tracking systems
+Enable searchable knowledge retrieval across lease and legal documents
+
+
+Leasing & Asset Management Automation
+
+Automate LOI comparison and deal workflow summaries
+Build dashboards summarizing tenant performance, lease milestones, and risk exposure
+Support market intelligence and tenant prospecting research
+Develop underwriting support and reporting tools
+
+
+Property Management & Financial Workflow Automation
+
+Automate CAM reconciliation data processing and variance detection
+Streamline tenant reporting and communication workflows
+Track vendor contracts, compliance deadlines, and service obligations
+Extract and structure financial data from operational documents
+
+
+Data Infrastructure & Knowledge Systems
+
+Structure internal documents and data for AI retrieval and automation
+Build document ingestion, indexing, and retrieval pipelines
+Implement vector search and knowledge retrieval systems
+Maintain data integrity, access control, and auditability
+
+
+Systems Integration & Deployment
+
+Integrate AI tools with property management, accounting, CRM, and document platforms
+Deploy systems within secure cloud environments
+Implement logging, monitoring, performance, and cost controls
+Ensure reliability and scalability of deployed systems
+
+
+Collaboration & Implementation
+
+Translate operational workflows into technical automation solutions
+Work directly with leadership to prioritize automation opportunities
+Train teams and implement adoption workflows
+Establish standards for responsible and secure AI usage
+
+
+Required Qualifications
+
+Bachelor’s or advanced degree in Computer Science, Engineering, Mathematics, Statistics, or related quantitative discipline
+Demonstrated success in a rigorous academic or research environment
+3–7+ years building production software, automation systems, or applied AI solutions
+Strong Python development and API integration experience
+Experience working with structured and unstructured data
+Experience deploying systems in cloud environments
+Strong understanding of system architecture and data pipelines
+Exceptional analytical and problem-solving ability
+
+
+Preferred Qualifications
+
+Experience building document intelligence or contract analysis systems
+Experience with retrieval systems and vector databases
+Experience automating financial or operational workflows
+Experience integrating AI into business operations environments
+Experience in real estate, finance, logistics, or operations-heavy industries
+Evidence of research, technical publications, competitive programming, or open-source contributions
+
+
+Technical Environment (Representative)
+
+Python and API-based architectures
+LLM platforms and agent orchestration frameworks
+Cloud infrastructure (AWS, Azure, or GCP)
+SQL and vector databases
+Workflow orchestration and automation tools
+Version control, logging, and monitoring systems
+
+
+Success Metrics
+
+Performance in this role will be evaluated by:
+Reduction in manual administrative workload
+Automation coverage across operational workflows
+Accuracy and reliability of AI-driven outputs
+Adoption and usage across departments
+Operational efficiency gains and cost reductions
+
+
+Work Environment
+
+Hybrid work model with in-person collaboration in Orange County
+Direct collaboration with executive leadership and operational teams
+High autonomy in system architecture and implementation decisions

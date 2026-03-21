@@ -1,0 +1,63 @@
+Capgemini is expanding our team of GenAI Engineers to design, develop, and implement Gen AI and Agentic AI. The ideal candidate will have a strong background in Gen AI, and Agentic AI frameworks - with demonstratable hands-on experience deploying LLM-powered features. This role requires strong collaboration and an aptitude for applying research directly to practice. In this role, candidates will identify and implement innovative solutions, improving the functionality and user engagement of AI models.
+
+
+Responsibilities:
+
+
+
+Design and Development:
+Enhance the design and user experience to ensure intuitive and efficient interaction with AI solutions
+Collaborate with multi-functional teams to integrate AI in various domains and functions
+Innovation and Improvements:
+Research and identify new capabilities - articulating and integrating findings into development work
+Identify and implement innovative solutions to improve the functionality and user engagement of AI models
+Stakeholder Collaboration:
+Translate stakeholders’ business requirements into technical functionality
+Drive a compelling narrative aligning with value proposition of AI solutions
+
+
+Requirements:
+
+
+
+Technical Expertise:
+Demonstratable advanced Python skills
+Tangible work experience with Gen AI, and AI frameworks
+Hands-on understanding of AI frameworks, programming and advanced analytics capabilities
+Previous experience managing issues like hallucinations, token costs, etc.
+Knowledge of agentic AI and agent development frameworks
+Communication and Collaboration:
+Excellent problem-solving skills
+Excellent communication and presentation skills
+Demonstratable ability to work independently and collaboratively with cross-functional teams and stakeholders
+
+
+Preferred Skills:
+
+
+
+Knowledge of UX design principles
+Familiarity with agile project management methodologies
+Experience in driving value propositions and business narratives
+
+
+About Capgemini
+
+
+
+Capgemini is a global leader in partnering with companies to transform and manage their business by harnessing the power of technology. The Group is guided everyday by its purpose of unleashing human energy through technology for an inclusive and sustainable future. It is a responsible and diverse organization of over 360,000 team members in more than 50 countries. With its strong 55-year heritage and deep industry expertise, Capgemini is trusted by its clients to address the entire breadth of their business needs, from strategy and design to operations, fueled by the fast evolving and innovative world of cloud, data, AI, connectivity, software, digital engineering and platforms. The Group reported in 2022 global revenues of €22 billion.
+Get The Future You Want | www.capgemini.com
+
+
+
+Disclaimer
+
+
+
+Capgemini is an Equal Opportunity Employer encouraging diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, national origin, gender identity/expression, age, religion, disability, sexual orientation, genetics, veteran status, marital status or any other characteristic protected by law.
+This is a general description of the Duties, Responsibilities and Qualifications required for this position. Physical, mental, sensory or environmental demands may be referenced in an attempt to communicate the manner in which this position traditionally is performed. Whenever necessary to provide individuals with disabilities an equal employment opportunity, Capgemini will consider reasonable accommodations that might involve varying job requirements and/or changing the way this job is performed, provided that such accommodations do not pose an undue hardship.
+Capgemini is committed to providing reasonable accommodations during our recruitment process. If you need assistance or accommodation, please reach out to your recruiting contact.
+Click the following link for more information on your rights as an Applicant http://www.capgemini.com/resources/equal-employment-opportunity-is-the-law
+
+Please be aware that Capgemini may capture your image (video or screenshot) during the interview process and that image may be used for verification, including during the hiring and onboarding process.
+Applicants for employment in the US must have valid work authorization that does not now and/or will not in the future require sponsorship of a visa for employment authorization in the US by Capgemini.

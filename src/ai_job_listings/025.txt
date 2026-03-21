@@ -1,0 +1,69 @@
+Build the AI-Native Future of Crypto
+
+
+
+About Gate
+
+Gate is one of the world’s top cryptocurrency exchanges, serving millions of users globally and ranking among the top five exchanges by trading volume.
+
+
+We believe the next evolution of crypto platforms will be AI-native. Instead of simply integrating AI features, we are building a platform where AI agents, intelligent systems, and automation are core to how users interact with finance.
+
+
+Our goal is to rethink how people discover information, make decisions, and interact with financial systems using AI.
+
+
+If you are excited about applying AI to real-world systems used by millions, we would love to talk.
+
+
+The Role
+
+We are looking for engineers who enjoy turning AI capabilities into real products.
+
+
+You will work on applying LLMs and modern AI systems to real product problems across the platform, including:
+AI-powered recommendation systems
+Intelligent assistants and copilots
+AI search and knowledge systems
+AI-driven trading and financial insights
+This is not a research role. It is about building real AI products that people use every day.
+
+
+What You’ll Do
+
+Build AI-powered product features using LLMs and modern ML techniques
+Design systems that bring AI into real product workflows
+Transform traditional product systems into AI-native systems
+Work closely with product and engineering teams to deliver impactful solutions
+Help shape how AI will be used across a global crypto platform
+
+
+Who You Are
+
+You might be a great fit if you:
+Have built AI-powered products in production
+Have worked on recommendation systems, AI assistants, search, or ML-driven products
+Enjoy solving real product problems with AI
+Care about building systems that actually ship and scale
+We care much more about what you’ve built than about specific titles or backgrounds.
+
+
+Requirements
+
+Strong engineering background (Computer Science or equivalent experience)
+Experience building AI or machine learning systems in production
+Experience working with Python and modern AI/ML frameworks
+Experience in internet-scale product engineering environments
+Fluency in both Mandarin and English is required, as this role involves collaboration with engineering teams in China.
+
+
+Why Join
+
+Build AI-native financial products used by millions
+Work with a global engineering team
+Fully remote worldwide, with collaboration primarily during APAC hours (Beijing / GMT+8).
+Solve hard, real-world AI problems
+Competitive compensation
+
+
+If you're excited about building the future of AI-powered finance, we’d love to hear from you.

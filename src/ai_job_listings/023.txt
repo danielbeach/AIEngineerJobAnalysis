@@ -1,0 +1,61 @@
+About the job
+As a Lead AI Engineer, you will design, build, and deploy artificial intelligence capabilities that drive business value and enhance our global products. You will work cross-functionally with product managers, data scientists, engineers, and stakeholders to deliver scalable AI systems for content personalization, audience analytics, creative optimization, and more. You will report to the Global Head of AI & Innovation.
+
+
+This is a remote role. Employees within 90 min of our NY, MI, IL & Chicago offices may expect 3 days a week onsite.
+
+
+
+What You'll Do: 
+
+
+
+AI Solution Development: Architect, develop, and maintain AI systems for media products.
+Collaboration: Partner with product, engineering, and data teams to translate business needs into technical solutions.
+Deployment & Scaling: Implement AI models in production environments, ensuring reliability, scalability, and performance across global markets.
+Continuous Improvement: Monitor, evaluate, and iterate on AI models using real-world data and feedback.
+Research & Innovation: Stay current with AI/ML advancements; prototype and recommend new technologies to keep our products at the forefront of innovation.
+Ethics & Compliance: Champion responsible AI practices, ensuring fairness, transparency, and compliance with data privacy regulations.
+
+
+What You'll Have
+
+
+
+Master’s degree in Computer Science, Engineering, or related field (PhD a plus).
+Strong Python skills, with experience in LLM orchestration libraries (e.g., LangChain, LlamaIndex, Semantic Kernel), chain-of-thought, and structured reasoning approaches.
+Demonstrated experience with enterprise LLMs – their APIs, performance challenges, and how to mitigate those (OpenAI, Anthropic, Cohere, etc.)
+Demonstrated production experience with API conventions and integration into pipelines, e.g. RESTful API, FastAPI, or similar.
+Demonstrated experience integrating multiple approaches for extracting highest-quality output from LLMs, e.g. prompt engineering, multi-agents, structured output validation, hybrid RAG, in-context learning (ICL), or NLP- or ontology-powered layering.
+Proficiency with document processing pipelines (text extraction, chunking, embedding)
+Demonstrated production experience with measuring and improving AI systems, tracing and AI observability (e.g. Arize, OpenTelemetry, LangSmith)
+Strong foundation in data science fundamentals, including data analysis, statistical methods, and experience working with structured and unstructured data
+Experience with cloud platforms (AWS, GCP, Azure) and MLOps tools.
+
+
+The annual salary range for this position is (163,000-$210,00). Placement within the salary range is based on a variety of factors, including relevant experience, knowledge, skills, and other factors permitted by law. Additionally, this position is eligible for discretionary incentive compensation.
+Benefits available with this position include:
+
+
+Medical, vision, and dental insurance,
+Life insurance,
+Short-term and long-term disability insurance,
+401k,
+Flexible paid time off,
+At least 15 paid holidays per year,
+Paid sick and safe leave, and
+Paid parental leave.
+
+
+Dentsu also complies with applicable state and local laws regarding employee leave benefits, including, but not limited to providing time off pursuant to the Colorado Healthy Families and Workplaces Act, in accordance with its plans and policies. For further details regarding Dentsu benefits, please visit www.dentsubenefitsplus.com.
+
+Featured benefits
+
+Medical insurance
+Vision insurance
+Dental insurance
+401(k)
+Paid maternity leave
+Paid paternity leave
+Commuter benefits
+Disability insurance

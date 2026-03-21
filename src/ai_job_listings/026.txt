@@ -1,0 +1,45 @@
+About The Team
+
+The Agentic AI team at Zillow is transforming the real estate industry by helping millions of people navigate one of the most important decisions of their lives with AI powered guidance. Our mission is to redefine the home shopping and transaction experience through an always-on assistant that combines deep real estate expertise, grounded data access, and advanced reasoning. This lean, cross-functional team of applied scientists and engineers delivers production-grade AI systems through strong collaboration, accountability, and technical rigor.
+
+Within the Agentic AI org, the Applied Reasoning team advances the reasoning depth, quality, and domain intelligence of Zillow’s AI agents. We build high-value agentic capabilities that require multi-step reasoning, structured synthesis, tool-grounded execution, and rigorous quality evaluation to operate reliably in live customer experiences. Our goal is to enable Zillow’s AI Assistant to reason, plan, and act with the depth and judgment of top-performing real estate professionals.
+
+About The Role
+
+Zillow is seeking a Machine Learning Engineer to join the Applied Reasoning team within the Agentic AI organization. In this role, you will design, build, and productionize domain-specialized AI capabilities that power Zillow’s next generation real estate experiences. You will focus on advancing multi-step reasoning, structured synthesis, and tool-grounded intelligence that operates reliably at scale in live customer environments.
+
+You Will Get To:
+
+Design and build scalable AI infra and services to power agentic AI applications
+Develop advanced reasoning and agentic capabilities that enable AI agents to operate autonomously and adaptively in dynamic, real-world environments
+Implement monitoring, evaluation, and optimization processes to ensure reliability and responsiveness in production
+Stay at the forefront of agentic AI innovation, bringing emerging techniques into practical application to shape product direction. 
+Collaborate closely with applied scientists, engineers, and product teams to translate experimental prototypes into robust production systems
+Contribute to best practices in distributed ML systems, scalable architecture, and responsible AI deployment
+
+This role has been categorized as a Remote position. “Remote” employees do not have a permanent corporate office workplace and, instead, work from a physical location of their choice, which must be identified to the Company. U.S. employees may live in any of the 50 United States, with limited exceptions.
+
+In California, Connecticut, Maryland, Massachusetts, New Jersey, New York, Washington state, and Washington DC the standard base pay range for this role is $145,500.00 - $232,500.00 annually. This base pay range is specific to these locations and may not be applicable to other locations. In Colorado, Hawaii, Illinois, Minnesota, Nevada, Ohio, Rhode Island, and Vermont the standard base pay range for this role is $138,300.00 - $220,900.00 annually. The base pay range is specific to these locations and may not be applicable to other locations.
+
+In addition to a competitive base salary this position is also eligible for equity awards based on factors such as experience, performance and location. Actual amounts will vary depending on experience, performance and location. Employees in this role will not be paid below the salary threshold for exempt employees in the state where they reside.
+
+Who you are
+
+You are a hands-on builder who thrives at the intersection of AI innovation and engineering excellence. You’re skilled at transforming cutting-edge ideas into production systems that scale. We are looking for someone who has:
+
+A Bachelor’s or Master’s in Computer Science or a related field
+2+ years of experience building production ML systems and services
+Experience with AI agent frameworks, orchestration, or multi-step reasoning applications
+Strong programming skills in Python and experience with ML/AI frameworks such as TensorFlow, PyTorch, LangChain, and LangGraph
+Experience designing and operating scalable, cloud-based ML infrastructure
+Ability to work in cross-functional teams to ship impactful AI-driven features
+
+Get to know us
+
+At Zillow, we’re reimagining how people move—through the real estate market and through their careers. As the most-visited real estate platform in the U.S., we help customers navigate buying, selling, financing and renting with greater ease and confidence. Whether you're working in tech, sales, operations, or design, you’ll be part of a company that's reshaping an industry and helping more people make home a reality.
+
+Zillow is honored to be recognized among the best workplaces in the country. Zillow was named one of FORTUNE 100 Best Companies to Work For® in 2025, and included on the PEOPLE Companies That Care® 2025 list, reflecting our commitment to creating an innovative, inclusive, and engaging culture where employees are empowered to grow.
+
+No matter where you sit in the organization, your work will help drive innovation, support our customers, and move the industry—and your career—forward, together.
+
+Zillow Group is an equal opportunity employer committed to fostering an inclusive, innovative environm

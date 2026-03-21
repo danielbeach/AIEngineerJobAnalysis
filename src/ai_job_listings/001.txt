@@ -1,0 +1,69 @@
+District Partners is partnering with a global enterprise software company that builds large-scale technology platforms used by major organizations around the world. Their products support critical digital operations and are deployed across thousands of environments globally.
+
+
+The engineering organization is making a significant investment in AI-native capabilities that combine generative AI, advanced knowledge modeling, and large-scale data systems. These technologies are already being embedded directly into production platforms used by enterprise customers every day.
+
+
+This role offers the opportunity to work on real-world AI systems operating at enterprise scale while helping shape the next generation of intelligent software platforms.
+
+
+This is not a research lab or an experimental AI group. The team is focused on building real systems that solve real problems at enterprise scale. Engineers here have the opportunity to influence how organizations operate, troubleshoot complex environments, and make data-driven decisions through intelligent software.
+
+
+Why this role stands out
+
+Work on AI systems that are already moving into production and used by enterprise customers globally
+Build AI agents, retrieval-based systems, and knowledge graph platforms that power real enterprise products
+Join a team where AI is a strategic product investment rather than a research initiative
+Work alongside experienced engineers solving large-scale distributed systems and data challenges
+Have real influence on the architecture and direction of AI-enabled enterprise software
+Join a stable, well-funded organization investing heavily in AI capabilities
+
+
+The Role
+
+This is a senior, hands-on engineering position focused on designing and building production AI systems. You will be involved across the full lifecycle including architecture, development, deployment, monitoring, and operational support.
+
+
+The work focuses on building scalable AI capabilities that are integrated directly into enterprise software platforms. Engineers on this team are expected to take ownership of systems after launch and help ensure they operate reliably in production environments.
+
+
+What You'll Do
+
+Design and build production-scale AI systems integrated into enterprise software platforms
+Develop AI agents and Retrieval Augmented Generation (RAG) architectures
+Build and extend knowledge graph systems including graph databases and metadata models
+Architect scalable services supporting real-time AI inference and large-scale data processing
+Deploy, monitor, and support AI services running in production environments
+Participate in on-call rotations supporting mission critical systems
+Collaborate with engineering, infrastructure, and product teams
+
+
+What You'll Have
+
+8+ years of professional software engineering experience
+Strong programming experience in Python (Java also acceptable)
+Production experience in at least one of the following:
+Generative AI systems including RAG, agents, or LLM integrations
+Knowledge graph systems and graph databases
+Experience deploying AI-powered systems into production
+Experience supporting live production services after launch
+Experience responding to and resolving high-severity incidents
+
+
+Cloud and DevOps experience
+
+CI/CD pipelines such as GitHub Actions, Jenkins, or similar
+Infrastructure as Code such as Terraform
+Cloud environments such as AWS
+Containerized deployments and distributed systems architectures
+
+
+What this Role is Not
+
+This role is not focused on AI research or prototypes. The team is building AI systems that are already deployed into production and actively used by enterprise customers.
+
+
+Location: Remote, U.S.
+Compensation: $155,000 to $245,000 base plus strong benefits
+Work Authorization: Candidates must be authorized to work in the United States without sponsorship.

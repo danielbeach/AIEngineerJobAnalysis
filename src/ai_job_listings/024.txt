@@ -1,0 +1,26 @@
+Job Title: Gen AI Consultant
+
+Location: Fully Remote
+Job Type: Contract/Contract-to-hire
+Responsibilities:
+
+Data Engineering:
+Collaborate with cross-functional teams to design and implement data pipelines, ensuring efficient extraction, transformation, and loading (ETL) processes.
+Work with diverse healthcare datasets, integrating and cleaning data from various sources to create a unified and reliable data infrastructure.
+Develop and maintain databases, ensuring data quality, integrity, and security.
+AI Integration in Healthcare:
+Assist in the development and implementation of AI solutions tailored to healthcare challenges.
+Collaborate with data scientists and machine learning engineers to deploy models into production environments.
+Utilize genomics, clinical, and administrative data to derive actionable insights and recommendations.
+Research and Innovation:
+Stay abreast of the latest advancements in genomics, healthcare, and AI technologies.
+Contribute to the development of new methodologies and tools to enhance our service offerings.
+Qualifications:
+
+Bachelor's degree in Computer Science, Data Science, or a related field.
+Strong foundation in data engineering, including experience with ETL processes, data modeling, and database management, as well as SQL.
+Knowledge of healthcare industry standards, regulations, and data interoperability.
+Familiarity with AI and machine learning concepts, and a willingness to learn and apply them in a healthcare context. At least 6 Months experience working with Gen AI.
+Excellent communication and interpersonal skills.
+Proven ability to work in a collaborative team environment.
+Prior Experience in healthcare or insurance field.

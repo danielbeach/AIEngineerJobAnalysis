@@ -1,0 +1,44 @@
+About the job
+Abbott is a global healthcare leader that helps people live more fully at all stages of life. Our portfolio of life-changing technologies spans the spectrum of healthcare, with leading businesses and products in diagnostics, medical devices, nutritionals and branded generic medicines. Our 115,000 colleagues serve people in more than 160 countries.
+
+We’re focused on helping people with diabetes manage their health with life-changing products that provide accurate data to drive better-informed decisions. We’re revolutionizing the way people monitor their glucose levels with our new sensing technology.
+
+Working at Abbott
+
+At Abbott, you can do work that matters, grow, and learn, care for yourself and family, be your true self and live a full life. You’ll also have access to :
+
+Career development with an international company where you can grow the career you dream of.
+Employees can qualify for free medical coverage in our Health Investment Plan (HIP) PPO medical plan in the next calendar year.
+An excellent retirement savings plan with high employer contribution
+Tuition reimbursement, the Freedom 2 Save student debt program and FreeU education benefit - an affordable and convenient path to getting a bachelor’s degree.
+A company recognized as a great place to work in dozens of countries around the world and named one of the most admired companies in the world by Fortune.
+A company that is recognized as one of the best big companies to work for as well as a best place to work for diversity, working mothers, female executives, and scientists.
+
+THE OPPORTUNITY
+
+This AI Engineer position can work out remotely within the U.S.
+
+What You’ll Work On
+
+Create Robust Metrics to Evaluate Next Gen AI Systems : Create robust metrics and validation plans to ensure that next generation systems do what they are hired to do
+Develop Model Optimization Strategies for Next Gen AI Systems : Create and execute plans to improve AI/ML models 
+Data Analysis & Insights : Clean, analyze, and interpret complex health data from Continuous Glucose Monitors (CGM), smart insulin pens, and connected mobile apps. Identify trends, patterns, and key metrics to inform clinical research, product development, and patient health management.
+Algorithm Development : Contribute to the development of machine learning algorithms for insulin titration adjustments and predictive models that improve diabetes outcomes. Collaborate with cross-functional teams to translate data insights into actionable clinical recommendations. Understand how to use data from CGM, connected insulin pens, and mobile app data to create next generation recommendation systems.
+Clinical Management Product Research : Design and execute statistical analyses to evaluate the potential impact of clinical decision systems. Develop visualizations and technical documentation for research papers and presentations.
+Data Pipeline Optimization : Build scalable and efficient data pipelines to integrate, clean, and process multi-source health data from legacy products to make this data available to our internal data scientists. Ensure high-quality data structures that support accurate and reliable analytics.
+Collaboration & Communication : Partner with clinicians, product teams, and other stakeholders to develop next generation clinical decision systems that turn complex data into clear, actionable insights. Present findings effectively to both technical and non-technical audiences.
+
+Qualifications :
+
+Master’s degree in Statistics, Data Science, or a related field (e.g., Computer Science, Mathematics, Bio Medical Engineering). A strong academic record is preferred.
+Minimum 6+ years of experience in data science, preferably within the healthcare industry or related fields. Experience working with time-series data, clinical data, or medical devices is highly desirable. Experience dealing with real world data and creating machine learning and analytics from real world data is required. Experience in deploying at least one GenAI system to production is highly desirable.
+Proficiency in Python (Pandas, NumPy, SciPy, SKLearn, TensorFlow), R, SQL (PostgreSQL, MySQL), and experience with cloud platforms like AWS or Azure. Ability to create production quality python code.
+Statistical Expertise : Strong understanding of statistical concepts, including hypothesis testing, causal inference, and experimental design. In addition, evidence of creating statistical plans for the validation of GenAI systems in necessary.
+Communication & Collaboration : Proven ability to work effectively in cross-functional teams and communicate complex technical concepts to diverse stakeholders.
+Experience working with medical professionals and helping medical professionals interpret complex data is required.
+
+Preferred
+
+Experience with diabetes management systems, CGM data, or insulin therapy optimization.
+Publication record or presentations at conferences related to diabetes research or medical device analytics.
+Familiarity with agile development methodologies and version control systems like Git.

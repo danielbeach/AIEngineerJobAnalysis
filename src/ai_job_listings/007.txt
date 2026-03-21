@@ -1,0 +1,81 @@
+Attention GenAI Engineers!!!
+
+
+
+Since this is a remote role, we require 100% of the following criteria in the order of importance for a candidate to be considered for employment. 
+
+
+
+US Citizens or Green Card Holders ONLY!!
+
+
+
+No C2C
+
+No Third Party Agencies
+
+
+
+You will be responsible for designing, developing, optimizing, and testing generative AI and agentic AI solutions to enable the production of accurate, relevant, and high-quality outputs across various business applications. You must have a strong background in AI, natural language processing, and RPA. and deep expertise in Large Language Models, RAG, prompt engineering, and Robotic Process Automation. You will partner with stakeholders to drive business value to Arbitration Forums and our members through GenAI and Agentic AI solutions. This role excels at the implementation of the agentic AI development process, employing AI techniques to guide and enhance solutions, developing effective AI interactions and automations through proficient programming and testing.
+
+
+QUALIFICATIONS
+
+Bachelor’s or Master’s degree in Computer Science, Information Systems, Data Science, Linguistics, or a related field.
+Minimum of 7 years of experience in NLP, GenAI, LLMs, RAG, data governance, data science, or a related role.
+Deep understanding of the components and development process of an Agentic AI solution.
+
+
+Technical Skills
+
+Advanced programming knowledge, including mastery of programming languages such as Python, and especially AI-centric libraries like TensorFlow, PyTorch, and Keras.
+Working knowledge of Azure AI Foundry and ML Studio.
+Working knowledge of low code solutions, as well as tool integration and multi-agent collaboration.
+Experience mapping and defining business processes and/or workflows for automation purposes.
+Cloud computing and knowledge for deploying and managing AI applications on cloud platforms like AWS, Google Cloud, or Microsoft Azure. Deep understanding of containerization technologies like Docker and orchestration tools like Kubernetes for scaling AI solutions.
+Experience combining design patterns like Tool Use, Reflection, and Planning for robust and solid automation.
+Expertise in generative models such as generative adversarial networks (GANs) and variational autoencoders (VAEs). Ability to design, train, and optimize these models to generate high-quality, creative content.
+Experience in Natural language processing (NLP) for text generation projects. Working knowledge of techniques for text parsing, sentiment analysis, and the use of transformers like GPT (generative pre-trained transformer) models.
+Data management knowledge, including data pre-processing, augmentation, and generation of synthetic data, including the cleaning, labeling, and augmenting of data to train and improve AI models.
+Proficiency prompt engineering for generative AI models (GPT-4, DALL-E, etc.) and experience creating and integrating RAG capabilities.
+Strong understanding of natural language processing concepts and techniques.
+Proficiency in programming languages such as Python and familiarity with AI frameworks (e.g., TensorFlow, PyTorch).
+Understanding of Agentic AI frameworks and tools, like CrewAI and Azure AI Foundry.
+Working knowledge of cloud services (i.e., MS Azure, AWS, Google Cloud).
+Experience with AI tools, such as MS Azure ML, Databricks AI, Snowflake CortexAI, Dataiku.
+Strong knowledge of data governance, data security, and compliance practices.
+Familiarity with data visualization and reporting tools (e.g., Webfocus, Power BI).
+Proficiency in programming languages such as Python, R, or SQL.
+
+
+Soft Skills:
+
+Excellent analytical and problem-solving abilities.
+Strong communication and interpersonal skills to collaborate with cross-functional teams.
+Ability to lead projects and mentor junior staff.
+Auto Insurance claims industry experience preferred.
+
+
+ESSENTIAL DUTIES AND RESPONSIBILITIES
+
+
+
+Prompt Design and Optimization:
+Design, develop, and refine prompts for LLMs to ensure high-quality outputs for specific use cases.
+Employ techniques to guide and enhance model responses, ensuring that the AI interactions are effective and efficient.
+Develop effective AI interactions through proficient programming and utilization of playgrounds, including the implementation and manipulation of complex algorithms fundamental to developing generative AI models.
+Articulate, design, develop, and implement Agentic AI solutions, following an established development process that is inclusive of the agentic solution lifecycle.
+Collaborate with cross-functional teams to ensure that the solutions are aligned with the business requirements and objectives.
+Conduct A/B testing of prompt variants and automation solutions, analyzing model behaviors and agentic paths, including deviations and degradations.
+Stay up to date with advancements in LLM and RAG capabilities, prompt engineering, and Agentic AI best practices.
+Collaborate with product managers, data scientists, ML engineers, and business stakeholders to integrate GenAI and AI solutions into business processes, products, or workflows.
+Create documentation and reusable libraries for internal and external use.
+Partner with the MLOps Engineer and other stakeholders to establish and implement observability and monitoring frameworks to adequately and timely identify degradations and potential ethical/bias issues.
+Establish, embed, and implement explainability frameworks in AI solutions, through Model Context Protocols and SHAP.
+Provide recommendations for improvement in the areas of AI acceptable use and ethics, collaborating with Legal and Compliance to ensure adherence.
+
+
+AI Governance and Security:
+Ensure data quality and integrity as they apply to GenAI, Agentic AI, and NLP.
+Ensure that data security protocols are followed in the definition and implementation of GenAI and Agentic AI solutions in accordance with regulatory requirements and company policies.
+Develop safety filters and guide the ethical use of prompts and automation paths to prevent biased or harmful responses.

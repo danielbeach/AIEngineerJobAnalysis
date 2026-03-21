@@ -1,0 +1,72 @@
+Relocation: 
+
+
+This position is open to candidates located anywhere in the United States who are willing to relocate to St. Louis. 
+Relocation assistance is available for qualified candidates.
+
+
+Location / Remote: Hybrid in St. Louis, MO; requires 3 days per week onsite after relocation
+
+
+Employment Type: Permanent / Direct Hire
+
+
+Compensation: $180k base salary + 15% bonus (up to 30% based on performance)
+
+
+Benefits:
+
+
+
+Comprehensive medical coverage with HSA/FSA options available for employees and family members
+401(k) with company match
+Paid time off (PTO)
+Access to employee wellness and benefits programs
+
+
+This role is a hands-on technical leadership position focused on architecting and implementing autonomous coding agents powered by GitHub Copilot. You will design scalable systems, guide engineering teams, and enable AI-assisted development workflows to enhance productivity and software quality. Success in this role requires deep expertise in cloud-native systems, microservices architectures, and modern software development practices.
+
+
+Responsibilities:
+
+
+
+Architect and implement GitHub Copilot autonomous coding agents to support engineering workflows across the organization.
+Design systems that provide context, guardrails, and instructions for AI-assisted software development.
+Build frameworks enabling coding agents to interact with repositories, development tools, and internal systems.
+Develop strategies for context retrieval and knowledge integration within large enterprise codebases.
+Define safety controls, governance models, and observability frameworks for AI-driven development.
+Collaborate with engineering leadership to integrate AI-powered workflows into the software development lifecycle.
+Provide technical guidance on distributed systems, microservices architectures, and cloud-native application development.
+Mentor engineers and influence architecture decisions across teams.
+Drive best practices in DevSecOps, engineering quality, and system reliability.
+Communicate complex technical concepts effectively to technical and non-technical stakeholders.
+
+
+Required Skills:
+
+
+
+7+ years of hands-on software engineering experience building and delivering production systems.
+Extensive experience designing GitHub Copilot and autonomous coding agent frameworks, including guardrails, instruction sets, and contextual knowledge systems.
+Experience designing systems enabling AI agents to interact with development tools, APIs, and workflows.
+Experience implementing AI-assisted developer tooling or engineering productivity platforms.
+Experience designing and implementing cloud-native applications and distributed systems.
+Expertise in building microservices architectures and modern backend services.
+Strong understanding of CI/CD pipelines and modern software development workflows.
+Proficiency with public cloud platforms such as Google Cloud Platform (GCP), AWS, or Azure.
+Ability to architect scalable systems and guide teams through complex technical decisions.
+Strong communication skills to explain technical concepts clearly.
+
+
+Preferred Skills:
+
+
+
+Bachelor’s degree in Computer Science, Software Engineering, or equivalent practical experience.
+Deep expertise with the GitHub ecosystem, including GitHub Actions, GitHub Apps, webhooks, and API integrations.
+Experience building AI-powered developer tooling or productivity platforms.
+Knowledge of LLM-powered application design, including agent frameworks and context retrieval strategies.
+Background in distributed systems, event-driven architectures, and microservices platforms.
+Experience implementing observability, governance, and safety frameworks for AI-assisted systems.
+Proven ability to mentor engineers and influence architecture decisions across large organizations.

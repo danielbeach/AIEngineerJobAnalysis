@@ -1,0 +1,48 @@
+We’re hiring an AI Engineer to design and build the agent layer of our platform, enabling a member-facing AI assistant to use tools, navigate multi-step tasks, and handle complex member journeys (benefits, claims, prior auth guidance, provider search, and more). In this role you’ll define agent patterns, implement orchestration and guardrails, and partner with product and domain teams to deliver high-impact capabilities that reduce friction and improve the member experience.
+
+To do that, you’ll need:
+
+Experience building agentic systems (tool use, planning, routing, memory) with modern frameworks
+Strong software engineering fundamentals (Python), APIs, eventing/orchestration patterns
+Proven ability to implement guardrails: policy constraints, safe actions, auditability, and fallbacks
+
+If you’re inspired by our mission – peace of mind through better health – and energized by this work, we’d love to hear from you.
+
+Note:
+
+This is a fully remote role, but onsite interviews at our Chattanooga, TN headquarters may be required.
+Sponsorship is not available for this role.
+
+Job Responsibilities
+
+Ideate, develop and productionalize AI solutions for healthcare payer use cases.
+Design and implement state-of-the-art AI models and algorithms using Python and GCP Vertex AI. 
+Collaborate with product teams to identify opportunities for applying AI techniques to solve business challenges and automate processes.
+Conduct research and stay up to date with the latest advancements in AI, continuously improving our techniques and methodologies.
+Develop scalable and efficient code base for deploying AI models into production environments.
+Work closely with our internal Lines-of-Businesses to understand their needs, gather requirements, and translate them into actionable insights and solutions.
+Lead the evaluation and validation of AI models, ensuring their accuracy, reliability, and performance meet business requirements.
+Communicate findings, results, and recommendations to technical and non-technical stakeholders through presentations, reports, and documentation.
+
+Job Qualifications
+
+Education
+
+Master's degree in STEM (Science, Technology, Engineering or Math) or related field or equivalent work experience required. Master’s and/or PhD degree a plus.
+
+Experience
+
+3 years of relevant work experience in analytics, technology, or healthcare (academic experience included), or related equivalent experience.
+1 year experience with machine learning or advanced statistical methods is required.
+Experience handling large datasets to build data science pipelines.
+Experience with Machine Learning, Deep Learning, Pytorch, Natural Language Processing.
+
+Skills\Certifications
+
+Proficient in Python
+Proficient in Microsoft Office (Outlook, Word, Excel, and PowerPoint)
+Proven analysis, design, and coding skills, and demonstrated success in leading large and complex projects
+Demonstrated ability to interpret and translate technical and/or or complex concepts into information meaningful to project team members and/or business personnel
+Leadership skills
+Must be able to communicate effectively with both technical and non-technical co-workers
+Be organized, reliable, and able to manage multiple tasks with exceptional work ethic.

@@ -1,0 +1,66 @@
+PicnicHealth is simplifying clinical research with AI, making it faster and cheaper to get new treatments to patients. We’re bringing a patient-centered, AI-first approach to a $100b market otherwise dominated by old-school, services-driven incumbents. We’re creating a streamlined operating system for clinical research, built on top of our AI for medical record data in trials and a personal health assistant that keeps patients engaged.
+
+The Opportunity
+
+Clinical research is ripe for reinvention. Running a study today involves countless labor-intensive workflows—work that's slow, expensive, and often frustrating for everyone involved. We believe AI can change that.
+
+Our AI team builds real systems with critical business impact. We process millions of pages of medical records, turning messy real-world data into structured patient timelines. We automate complex study workflows—from protocol setup to ongoing operations. The goal isn't incremental efficiency—it's drastically reducing the human labor required to run a study.
+
+This is a high-leverage role. You'll work closely with product managers and our study delivery team to identify high-impact opportunities—and own the AI solutions that address them. If you're excited about applying the latest AI capabilities to problems that genuinely matter, this is the place to do it.
+
+As an AI Engineer you will:
+
+Build AI agents that automate labor-intensive clinical study workflows—like drafting clinical trial documentation
+Extend and improve our agent framework (built on pydantic-ai) and the infrastructure that supports it
+Build data pipelines that give our agents access to the research and context they need
+Collaborate directly with study project managers, clinicians, and other stakeholders to understand problems and deliver solutions
+Do whatever it takes to ship—including scrappy UI work when that's what's blocking progress
+
+What you’ll bring:
+
+5+ years of experience writing production code in Python
+Deep experience with LLMs—not just API calls, but defining tools, understanding failure modes, and developing intuition for how to get reliable results
+Experience building agents that actually work in production
+Comfort navigating complex dev environments (Docker, Kubernetes, cloud-based development) well enough to unblock yourself
+Openness to occasional frontend work, especially with AI coding tools in your toolbelt
+Ability to explain technical tradeoffs to PMs and clinicians and incorporate their feedback quickly
+Self-direction and drive to move projects forward without detailed specs
+
+We expect all team members to be motivated to be amazing in their roles and, ultimately, to move the PicnicHealth mission forward.
+
+What is clinical research and why will PicnicHealth win?
+
+Clinical research is the industry responsible for conducting studies to evaluate the effectiveness of drugs and treatments. Better trials lead to faster, more cost-effective drug development, ultimately resulting in more and improved treatments for patients. However, the process remains highly inefficient. Trials are a major bottleneck in drug development, and the promising advancements in biotech cannot translate to real patient impact unless clinical research becomes faster and more efficient
+
+The industry runs on outdated technology and manual processes. Research sites (hospitals, academic centers, doctors' offices) are overburdened and under-resourced. Contract research organizations (CROs), the organizations that traditionally run clinical trials for life sciences companies, typically throw hundreds-of-thousands of man-hours wrangling sites and cobbling together vendor software.
+
+PicnicHealth has built technology that uniquely positions us to run faster, cheaper, and more flexible studies while removing burden from sites:
+
+PicnicAI (trained on 350M+ clinician annotations over 100k+ patient records) is the only system that can effectively access and structure all participant EMR data trials need
+Our AI health assistant (NPS of 76 in 2024) guides participants through study activities and enables most to be done at home
+We're an integrated solution — virtual site, CRO, and software platform — with AI built in from the ground up, initially focusing on non-interventional research. 
+
+Perks & Benefits @PicnicHealth 
+
+At PicnicHealth you get to solve real problems with real solutions, great tech, and great people. We look to attract and retain exceptional performers through a mission that matters, a culture that allows team members to do their best work and be their real selves, and through competitive compensation and benefits packages aligned to the market and our Core Values.
+
+We’re a remote first company, with teammates spread across the US. We support in-person gatherings, including co-working spaces and multi-day onsites, to build connections and move forward strategic initiatives. Expect to travel 2-4 times a year. For our team members in the Bay Area, who prefer to work in person we can offer a hybrid set up to work from the SF office on a flexible schedule.
+
+Target Base Salary Range: $180K-$220K
+
+The base salary PicnicHealth offers may vary depending upon the ultimate scope and responsibilities of the position and on the candidate’s job-related knowledge, skills, and experience. The total package will include equity, in addition to a full range of medical and/or other benefits, depending on the position offered. Pay and benefits are subject to change at any time, consistent with the terms of any applicable compensation or benefit plans.
+
+You also get:
+
+Comprehensive benefits including above market Health, Dental, Vision
+Family friendly environment 
+Flexible time off
+401k plan
+Free PicnicHealth account
+Equipment and internet funds for home office set up 
+Wellness Stipend
+
+Equal Opportunity Statement
+
+PicnicHealth is committed to promoting an inclusive work environment free of discrimination and harassment. We value a diverse and balanced team where everyone can belong.
+

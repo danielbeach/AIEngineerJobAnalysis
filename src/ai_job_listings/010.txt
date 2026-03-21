@@ -1,0 +1,37 @@
+Sr AI Engineer 
+
+Location: Remote with occasional travel to New York, NY 
+
+Compensation: $120,000–$170,000 + bonus
+
+
+A large Fortune 500 insurance company is expanding its AI & Data function. This organization has spent decades building a reputation for trust, long-term thinking, and a people-first culture. Today, they’re investing heavily in modern AI capabilities to support a diversified portfolio across insurance, financial products, and emerging digital initiatives.
+
+
+You’ll join a well-supported AI group that combines product managers, data scientists, AI engineers, platform engineers, and model governance specialists. The team works on a wide range of AI and GenAI initiatives, partnering closely with business stakeholders from ideation through deployment. Leadership buy-in is strong, and the environment encourages experimentation, collaboration, and continuous learning.
+
+
+What You’ll Do
+
+Design and build production-grade AI and ML solutions.
+Ensure AI code meets engineering best practices and high-quality standards.
+Implement, optimize, debug, scale, and monitor ML models in production environments.
+Work with Platform Engineers to automate deployment pipelines and tooling.
+Collaborate on solution architecture, ensuring ML systems integrate seamlessly into real-world applications.
+
+
+What You’ll Bring
+
+5+ years of software engineering experience, including 2+ years building AI/ML solutions.
+Strong Python skills and background with ML frameworks (TensorFlow, PyTorch, Keras, scikit-learn, etc.).
+Experience developing APIs and applying modern engineering best practices.
+Knowledge of NLP tooling (SpaCy, NLTK, Hugging Face).
+Familiarity with AWS cloud environments and cloud-native tools.
+
+
+Preferred Experience
+
+Previous exposure to Generative AI projects.
+Experience with vector databases.
+Kubernetes knowledge.
+Experience working with MCP servers.

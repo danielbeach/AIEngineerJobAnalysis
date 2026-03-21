@@ -1,0 +1,33 @@
+We’re partnering with a client building production AI systems that real customers use every day. They’re hiring a Senior AI Engineer to design and ship cloud-native AI services— taking models out of research and into scalable, customer-facing products.
+
+
+You’ll own end-to-end AI services on Google Cloud Platform, working at the intersection of backend engineering and modern generative AI.
+
+
+What you’ll do
+
+Build and deploy production AI/ML services, from model integration to client-facing APIs
+Design event-driven, real-time systems using Cloud Run, Kubernetes, Pub/Sub, and serverless GCP services
+Integrate LLMs into scalable inference pipelines (prompting, formatting, error handling)
+Write clean, well-tested Python services powering full-stack AI experiences
+Lead technical design and take features from concept to production
+
+
+What they’re looking for
+
+4–6+ years of backend or full-stack engineering experience (strong Python focus)
+Proven experience building cloud-native systems (GCP preferred; AWS/Azure considered)
+Experience with microservices, APIs, containers, and event-driven architectures
+Strong communicator who thrives in cross-functional, agile teams
+
+
+Nice to have
+
+Production experience serving ML models or LLMs
+Familiarity with RAG, vector databases, prompt engineering, or fine-tuning
+Experience with AI orchestration tools (e.g., LangChain)
+Infrastructure-as-code and CI/CD experience
+
+
+If you’re interested in building real, scalable AI products—not research demos, reach out to learn more about the client and role.
+

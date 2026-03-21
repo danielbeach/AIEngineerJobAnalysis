@@ -1,0 +1,48 @@
+Teamworks is accelerating its investment in GenAI to help sports organizations make better decisions faster, from how they analyze performance data to how they operate day to day. We’re hiring a Senior Software Engineer, GenAI to build AI-powered product experiences that real teams rely on in high-stakes environments.
+
+This is a high-impact role on the Platform team, where you’ll help turn GenAI from experimentation into reliable, production-ready capabilities used across the Teamworks product suite. You’ll design and ship real customer-facing AI features, build reusable GenAI infrastructure, and enable product teams across Teamworks to move faster with confidence. Your work will directly contribute to revenue growth, product differentiation, and the future technical foundation of Teamworks.
+
+This position will report to a Senior Manager, Engineering.
+
+What You'll Do
+
+Design, build, and ship production-grade GenAI features that help teams explore data, ask better questions, and trust the answers they get.
+Own GenAI features end-to-end — from system design and LLM integration through deployment, monitoring, and iteration.
+Build and maintain reusable GenAI platform components that make it easier and safer for teams across Teamworks to ship AI-powered features.
+Establish and document best practices for building, testing, and operating GenAI systems reliably in production.
+Enable product engineering teams to ship AI-powered features by providing shared infrastructure, technical guidance, and hands-on integration support.
+Make architectural decisions that balance speed, scalability, reliability, security, and cost in a multi-tenant data environment.
+Partner with Product, Design, and domain subject-matter experts to deliver trustworthy, explainable AI experiences that align with real user workflows.
+
+Must-haves
+
+What You'll Bring
+
+6+ years of professional software engineering experience, building and operating production systems with real customer impact.
+Experience shipping GenAI-powered or ML-enabled features to production, with ownership beyond prototypes or demos.
+Strong proficiency in TypeScript and Node.js, including building and maintaining backend services and APIs.
+Solid system design and architecture skills, with experience designing distributed, reliable, and observable services.
+Strong data reasoning and SQL fundamentals, including aggregation, time-based analysis, and performance considerations.
+Hands-on experience designing and operating production GenAI systems with prompts, tool interfaces, guardrails, and failure handling in cloud environments (AWS preferred).
+
+Nice-to-haves
+
+Experience integrating AI-driven workflows into React-based user interfaces.
+Familiarity with Infrastructure as Code (e.g., Terraform) and cloud-native deployment practices.
+Experience with observability and evaluation for AI-powered systems (e.g., logging, metrics, regression checks).
+Exposure to data platforms or lakehouse-style architectures.
+Interest in sports analytics, performance data, or complex domain-driven products.
+
+Who Thrives Here
+
+You’re a builder who cares deeply about shipping real value, not just experimenting with new technology. You enjoy working in undefined problem spaces, think holistically about systems, and take pride in creating solutions that other engineers love to use. You see GenAI as a product capability, not just a model integration, and you’re excited to help define how an entire organization builds with AI.
+
+About Teamworks
+
+We're the Operating System for Sports™, powering 6,500+ organizations worldwide, from collegiate programs to every major pro league. Founded in 2006, we've evolved from a messaging tool for college football into the leading sports tech platform, with 500+ global teammates building the future of sports tech. Our solutions span Personnel, Coaching, Performance, Operations, and Intelligence - helping teams recruit smarter, train better, stay compliant, and win.
+
+Teamworks is an equal opportunity employer - if you live our core values every day and are honest, hardworking, humble, committed, innovative, and an all-around exceptional person, you'll thrive at Teamworks. We are committed to building a diverse and inclusive workforce and take affirmative action to not discriminate based on race, religion, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, age, sexual orientation, veteran or military status, or any other legally protected characteristics. This policy applies to all employment practices within our organization, including but not limited to recruiting, hiring, promotion, termination, compensation, benefits, and training. Teamworks is committed to providing reasonable accommodations for candidates with disabilities who need assistance during the hiring process. To request a reasonable accommodation, please email talent@teamworks.com.
+
+To all recruitment agencies: Teamworks does not accept agency resumes. Please do not forward resumes to our jobs alias, Teamworks employees or any other organization location. Teamworks is not responsible for any fees related to unsolicited resumes.
+
+Compensation Range: $185K

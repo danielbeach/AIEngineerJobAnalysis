@@ -1,0 +1,88 @@
+Follow Aventis Solutions for more information and their channels: The AI Executive Podcast is now live online via:
+
+
+YouTube
+Spotify
+Amazon Music
+
+
+Just search The AI Executive Podcast on either of those channels above while this project is waiting to start.
+
+
+Aventis Solutions is supporting a fully remote, fast-scaling US FinTech firm in hiring 4x AI Engineers or MLOps Data Engineers to help build production-ready AI systems and modern data platforms. These roles are fully remote across the US, with a collaborative team culture, strong engineering leadership, and a mission to bring advanced AI capabilities into real-world products.
+
+
+Key Details:
+
+
+
+Salary Bracket: $110,000 to $210,000 base plus performance bonuses and comprehensive benefits
+Location: Fully remote within the US, HQ in Dallas Texas and New York
+Career Outlook: Opportunities to grow vertically up the ranks as an AI Engineer or AI Lead, or team leadership, business/technology strategy or architecture roles as the company expands
+
+
+Key Responsibilities:
+
+
+
+Design, build, and maintain scalable data pipelines and ML infrastructure in a cloud-native environment
+Integrate AI and LLM-based solutions into production systems, working closely with software engineering and product teams
+Implement CI/CD for ML workflows and manage containerised deployments
+Support data governance, monitoring, and reliability of machine learning systems
+Collaborate on applied AI use cases, from predictive analytics to generative AI integrations
+
+
+Tech Stacks:
+
+
+
+Languages: Python, SQL, JavaScript (Node.js/TypeScript) for APIs
+Data Engineering: Snowflake, Databricks, dbt, Kafka, Spark
+MLOps and Cloud: AWS (SageMaker, S3, Lambda), Azure ML, Terraform, Kubernetes, Docker
+ML/AI Frameworks: scikit-learn, TensorFlow, PyTorch, LangChain, OpenAI API integrations
+Workflow and Orchestration: Airflow, Prefect, MLflow, Metaflow
+Version Control and CI/CD: Git, GitHub Actions, GitLab, Azure DevOps
+
+
+What the Team is Looking For:
+
+
+
+Python programming skills for data pipelines, ML experimentation, and API integrations
+Experience working in cloud environments such as AWS, GCP, or Azure
+Familiarity with containerisation, microservices, and infrastructure as code
+Knowledge of ML lifecycle management and deployment best practices
+Interest in LLMs and generative AI tooling, with an appetite to learn and experiment
+Good communication skills and the ability to collaborate across engineering, product, and data science teams
+
+
+Example Backgrounds:
+
+
+
+Data Engineers with cloud-scale experience looking to add ML or AI integrations to their work
+Machine Learning Engineers who want to productionise models and scale pipelines
+Software Engineers (Python or JavaScript) with interest in data-centric AI products
+Cloud or DevOps Engineers with MLOps experience
+AI Engineers with applied experience in LLM integrations or agentic frameworks
+
+
+Roles Overview:
+
+
+
+You will join a growing engineering team delivering real-world AI solutions. Projects span predictive models, LLM-enhanced applications, recommendation systems, and large-scale data integrations. You will help the team build robust, maintainable, production-ready AI services that deliver business value quickly.
+
+
+These roles are perfect for engineers who love solving complex problems, enjoy collaborating in cross-functional teams, and want to stay on the leading edge of applied AI and MLOps.
+If you want to work fully remotely in a company that values autonomy, learning, and high-quality engineering, this is your opportunity.
+
+
+
+
+Believe the hype!
+
+
+
+
+Interested? Pl

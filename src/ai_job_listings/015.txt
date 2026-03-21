@@ -1,0 +1,70 @@
+Job Summary:
+
+
+
+The AI Developer plays a key role in designing, developing, and deploying intelligent solutions. This role is focused on solving complex business challenges through innovative AI technologies and will collaborate closely with cross-functional teams to ensure timely and high-quality delivery of solutions aligned with defined objectives.
+
+
+DS/Gen/Agentic AI resources with good hands-on skills on:
+Current Advancements: Generative AI, Agentic AI, LLM fine-tuning, RAG, GraphRAG, Vector databases, Knowledge Graph, Langchain, Langgraph, etc
+Model Deployment: MLOPs pipeline, CI/CD, Model Deployment, Docker, Kubernetes, Azure Cloud, Github, etc
+Core Skills: Traditional AI / ML / Data Science skillsets (Predictive, Prescriptive, Descriptive, Statistical, Optimization, Simulation, Natural Language processing, Computer Vision, Image Processing, etc)
+Domain: Healthcare, Facets, GuidingCare, etc
+
+
+Note: Domain skills are nice to have and not mandatory.
+
+
+Essential Functions:
+
+Design and implement AI models and algorithms tailored to diverse business challenges
+Define and lead the architecture of Generative AI platforms, including large language models (LLMs), vector databases, and inference pipelines
+Maintain deep expertise in modern generative AI technologies such as Knowledge Graphs, OpenAI, LLaMA, Python, LangChain, vectorization, embeddings, semantic search, Retrieval-Augmented Generation (RAG), Infrastructure as Code (IaC), and Streamlit
+Rapidly prototype proof-of-concept solutions to assess emerging technologies and innovative ideas
+Foster innovation and collaboration in a fast-paced environment through a hands-on, imaginative approach and a self-driven, inquisitive mindset
+Leverage AI-assisted development tools, including GitHub Copilot and internally developed solutions, to enhance productivity
+Apply creative problem-solving techniques to identify and implement process improvements
+Assess technical risks and develop effective mitigation strategies to ensure successful project delivery
+Collaborate with data scientists, software engineers, and product teams to integrate AI capabilities into production-ready systems
+Partner with leadership to evaluate existing services and develop strategies to optimize delivery and support
+Perform data preprocessing and analysis on large datasets to uncover actionable insights
+Train, validate, and fine-tune machine learning and deep learning models for optimal performance
+Deploy models using cloud infrastructure and containerization technologies such as Docker and Kubernetes
+Implement and manage MLOps pipelines to automate model training, deployment, monitoring, and lifecycle management
+Apply AIOps practices to enhance operational efficiency, automate incident detection, and optimize system performance using AI-driven insights
+Continuously monitor model performance and retrain as needed to maintain accuracy and relevance
+Stay current with industry trends, tools, and frameworks, and assess their applicability to organizational goals
+Document workflows, models, and codebases to support maintainability and knowledge sharing
+Provide timely and transparent progress updates to stakeholders, highlighting key milestones, challenges, and proposed solutions
+Perform any other job duties as requested
+
+
+Education and Experience:
+
+Bachelor’s degree in Computer Science, Data Science, Artificial Intelligence or related field, or equivalent years of relevant work experience is required
+Master’s degree is preferred
+Minimum of five (5) years of experience in developing and deploying AI/ML models is required
+Experience with cloud platforms (AWS, Azure, GCP) and MLOps tools Is required
+Experience with Agile methodologies is required
+
+
+Competencies, Knowledge, and Skills:
+
+Knowledge of model interpretability and ethical AI practices
+Proficiency in Python and libraries such as TensorFlow, PyTorch, Scikit-learn, and OpenCV
+Strong analytical, evaluative and problem-solving abilities
+Strong understanding of data structures, algorithms, and software engineering principles
+Excellent problem-solving skills and attention to detail
+Strong communication and collaboration abilities
+Knowledge of healthcare and managed care
+
+
+Preferred Licensure and Certification:
+
+AI / Data Science certifications or credentials are preferred
+
+
+Working Conditions:
+
+General office environment; may be required to sit or stand for extended periods of time
+Occasional travel may be required to meet with stakeholders and development teams

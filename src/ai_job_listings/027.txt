@@ -1,0 +1,92 @@
+Life insurance is one of the world's most important products. It's also one of the hardest to build, distribute, and modernize. Bestow exists to change that.
+
+Bestow is a leading vertical technology platform serving some of the largest and most innovative life insurers. Our platform unifies the fragmented, legacy value chain, enabling carriers to launch products in weeks instead of years. Carriers choose us to scale and operate at unprecedented speed, powered by AI and automation.
+
+Bestow isn't selling policies. We're building the infrastructure that helps an entire industry move faster, reach more people, and deliver on its promise.
+
+Backed by leading investors (Goldman Sachs, Hedosophia, NEA, Valar, 8VC) and trusted by major carriers, Bestow is powered by a team that moves with precision, purpose, and heart. If you want to help reimagine a centuries-old industry with lasting impact, join us.
+
+Bestow offers flexible remote/hybrid work, meaningful benefits, equity, and substantial growth opportunities.
+
+Bestow participates in the E-Verify Program.
+
+About The Team
+
+The AI Automation team is Bestow's internal function dedicated to how the business operates. We embed AI into the workflows of engineering, product, sales, legal, finance, and other parts of the business to eliminate process friction and drive measurable efficiency gains. We work cross-functionally to identify high-friction processes, rapidly prototype LLM-powered solutions, and harden them into production-grade systems that drive measurable business impact. The team partners closely with business operations, data science, data engineering, and product teams to translate research and operational intelligence into tools that achieve organic adoption. You'll be expected to move fast, build pragmatically, and treat AI not just as a technology but as a lever for redesigning how work gets done across the organization.
+
+What You'll Do
+
+As an AI Automation Engineer, you will identify, build, and scale AI-powered automation across Bestow's internal operations, serving as a catalyst for practical innovation that frees teams to focus on strategic and creative work.
+
+Build & Scale
+
+Rapidly prototype MVPs using LLM APIs (Gemini, Anthropic), agent frameworks, and workflow orchestration platforms (n8n, Zapier, Make) to address business bottlenecks
+Develop production-grade internal applications with reliable frontends, robust backends (Python), and proper observability
+Design and implement RAG architectures, multi-step agent workflows, and structured output pipelines grounded in company data
+Build automated evaluation frameworks (evals) to ensure the reliability, accuracy, and safety of AI-generated outputs
+Use AI tooling to accelerate your own development process, supervising AI's architectural choices and debugging where it falls short
+
+Scale & Harden
+
+Evolve successful prototypes into durable production systems with comprehensive error handling, logging, retry logic, and monitoring
+Research and propose solutions that handle sensitive and business-critical data with appropriate security controls (PII handling, SOC2 awareness, HIPAA considerations, human-in-the-loop safeguards)
+Optimize for cost, latency, and token efficiency across LLM-powered workflows
+Design resilient systems with comprehensive monitoring and alerting that contribute to overall automation governance
+
+Advocate and Influence
+
+Communicate complex technical concepts to non-technical stakeholders, building alignment and driving informed decision-making
+Host workshops, create playbooks, and train team members across all departments, ensuring they can safely and effectively use, maintain, and get value from the tools you ship.
+Document automation patterns and best practices to ensure long-term maintainability of processes with increasing criticality.
+Champion responsible AI practices across the organization, ensuring the automations you build include appropriate human oversight, observability, and safeguards, especially for business-critical or sensitive data workflows.
+
+Who You Are
+
+You are a hands-on engineer who is highly collaborative across the company, writes production code, owns systems in production, and is accountable for the reliability of what you ship.
+Proven track record of shipping tools or automations that achieved real adoption, not just demos.
+Strong cross-functional communicator who is comfortable interviewing a sales rep, ops manager, or legal coordinator about their workflow and translating it into a technical spec. You help bridge the gap between business problems and engineering solutions.
+High level of ownership and accountability, particularly when building systems that handle sensitive or business-critical data.
+Ability to connect what you ship to measurable outcomes; you’re comfortable working with business partners to define success metrics and report on results.
+Adaptability to learn new technologies and products as the job demands
+
+Requirements
+
+5+ years of experience in full-stack development or software engineering with strong skills in Python and JavaScript/TypeScript.
+1+ years of hands-on experience building LLM-backed tools involving prompt engineering, API integration, and automated evaluations.
+Demonstrated experience with at least one orchestration/agent framework (LangChain, LangGraph, CrewAI, AutoGen, or similar).
+Familiarity with RAG architectures, including vector databases (Pinecone, Weaviate, pgvector) and embedding pipelines.
+Experience with workflow and integration platforms (n8n, Zapier, Make, Temporal, or Airflow).
+Familiarity with cloud infrastructure on Google Cloud Platform (GCP), including Cloud Run, Cloud Functions, Vertex AI, Cloud Storage, and IAM, or comparable AWS or Azure infrastructure and tooling.
+Demonstrated experience with AI Coding assistants. AI tools are heavily ingrained in Bestow culture.
+Strong debugging skills; you can diagnose failures across prompts, integrations, APIs, and business logic.
+Knowledge of data security practices relevant to AI (PII handling, HIPAA, SOC 2).
+Experience with BigQuery and advanced SQL for data analysis and pipeline integration
+Experience building CI/CD pipelines using tools such as Docker, CircleCI, git, etc.
+Nice to have: Experience with LLM observability tools (LangSmith, Helicone, Braintrust) and MLOps practices.
+Nice to have: Background in insurance, fintech, or other regulated industries.
+
+What Success Looks Like
+
+In your first 90 days, you'll have shipped at least one meaningful automation that saves a team measurable time. Within six months, you'll have a portfolio of deployed solutions across multiple functions and a reputation as the person who makes things faster and easier.
+
+TOTAL REWARDS
+
+At Bestow, we’re proud to be awarded for our team members, innovative products, and culture. Our standard benefits include:
+
+Competitive salary and equity based on role
+Policies and managers that support work/life balance, like our flexible paid time off and parental leave programs
+100% paid-premium option for medical, dental, and vision insurance
+Lifestyle stipend to support your physical, emotional, and financial wellbeing
+Flexible work-from-home policy and open to remote
+Remote and WFH options, as well as a beautiful, state-of-the-art office in Dallas’ Deep Ellum, for those who prefer an office setting
+Employee-led diversity, equity, and inclusion initiatives
+
+Recent Employer Awards Include
+
+Best Place for Working Parents 2023 + 2024 + 2025
+Great Place to Work Certified, 2022 + 2023 + 2024 + 2025
+Built In Best Places to Work, 2022 + 2023 + 2025
+Fortune’s Best Workplaces in Texas 2022 + 2023
+Fortune’s Best Workplaces in Financial Services and Insurance 2022 + 2023 + 2024
+
+We value diversity at Bestow. The company will hire, recruit, and promote regardless of race, color, religion, sex, sexual orientation, gender identity or expression, national origin, pregnancy or maternity, veteran status, or any other status protected by applicable law. We understand the importance of creating a safe and comfortable work environment and encourage individualism and authenticity in every team member.

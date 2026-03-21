@@ -1,0 +1,45 @@
+At IMO Health, we combine strengths in software development, artificial intelligence, and clinical expertise to create AI-driven solutions that enhance access to reliable health information, support clinical decision-making, and improve patient outcomes. We are seeking a Senior AI / MLOps Engineer to join our Clinical AI team, owning the entire machine learning lifecycle—from data ingestion and model training, to deployment, monitoring, optimization, and retraining in production. This role bridges research and product by operationalizing AI models, ensuring they scale reliably, and building the infrastructure that enables innovation in clinical data processing.
+
+The ideal candidate is a hands-on engineer with deep MLOps expertise, capable of designing robust pipelines and production systems, monitoring model performance over time, and driving the continuous improvement of AI solutions. You will work closely with data scientists and cross-functional teams to integrate AI into IMO products, ensuring that models are reliable, reproducible, and maintainable in production.
+
+What You’ll Do
+
+Own the full ML lifecycle, including data ingestion, model training, validation, deployment, monitoring, retraining, and retirement.
+Transition AI/ML models from prototypes into scalable, production-ready systems.
+Build, deploy, and maintain CI/CD pipelines for ML models, ensuring reproducibility, scalability, and reliability.
+Design and implement cloud-based infrastructure (AWS, Azure, or equivalent) for training, inference, and monitoring of AI models.
+Automate repetitive ML lifecycle tasks to improve efficiency, consistency, and reliability in retraining and deployment workflows.
+Integrate large language models (LLMs), generative AI, and NLP solutions into IMO Health’s Clinical AI products, focusing on unstructured clinical data.
+Develop scalable inference pipelines and APIs to deliver AI capabilities to customer-facing solutions.
+Apply containerization (Docker, Kubernetes) and Infrastructure-as-Code to manage production environments.
+Implement monitoring, alerting, and performance dashboards to ensure model quality, detect drift, and maintain operational SLAs.
+Optimize deployed models for latency, throughput, reliability, and cost efficiency.
+Participate in system design and architecture discussions, providing expertise in MLOps and AI deployment best practices.
+Collaborate in an Agile environment with cross-functional teams, aligning technical solutions with product and business goals.
+
+What You’ll Need
+
+5+ years of professional experience in software engineering, AI/ML engineering, or related roles.
+Bachelor’s or Master’s degree in Computer Science, Engineering, or a related technical field (or equivalent experience).
+Strong coding skills in Python or Java, with experience in software engineering best practices.
+Hands-on experience deploying, maintaining, and scaling ML models in production environments.
+Proficiency with cloud platforms (AWS or Azure), containerization, and Infrastructure-as-Code.
+Experience with MLOps tools and workflows (e.g., MLflow, SageMaker, Kubeflow).Familiarity with CI/CD pipelines, automation, monitoring, and observability for ML systems.
+Working knowledge of NLP concepts (tokenization, embeddings, classification, sequence modeling); healthcare domain exposure is a plus.
+Experience fine-tuning and deploying LLMs and generative AI solutions.
+Strong problem-solving skills with the ability to design scalable, reliable, and maintainable ML systems.
+Excellent communication and collaboration skills in cross-functional, distributed teams.
+Self-starter with the ability to work independently and contribute from day one.
+
+Nice To Have
+
+Experience with clinical or healthcare AI applications.
+Familiarity with Hugging Face, PyTorch, TensorFlow, or other modern ML frameworks.
+Prior exposure to agentic AI and generative AI applications.
+AWS Associate-level certification (Machine Learning Engineer or Solutions Architect).
+
+$140,000 - $200,000 a year
+
+Compensation at IMO Health is determined by job level, role requirements, and each candidate’s experience, skills, and location. The listed base pay represents the target for new hires with individual compensation varying accordingly. These figures exclude potential bonuses or sales incentives, which may also be part of the total compensation package. Our recruiter will provide additional details during the hiring process. IMO Health also offers a comprehensive benefits package. To learn more, please visit IMO Health’s Careers Page .
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.

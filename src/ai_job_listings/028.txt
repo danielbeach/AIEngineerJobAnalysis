@@ -1,0 +1,40 @@
+About This Opportunity
+
+As an AI Engineer, you will have a hands-on AI Engineer role focused on building, deploying, and maintaining end-to-end AI/ML systems, pipelines, and applications. You will work closely with senior AI engineers while independently owning well-scoped projects and shipping production-ready code. There is emphasis on strong software engineering, data pipelines, cloud infrastructure, containerization, and LLM-based workflows. This position offers close mentorship, real-world production experience, and a clear growth path toward senior AI/ML or data engineering roles. As we continue to evolve and live our Orion values, we are looking for someone to grow with us.
+
+For Internal And External Candidates
+
+Candidates must work in-office at one of the following locations for at least 3 days per week: Omaha, NE; San Francisco, CA or Lehi, UT. We can also consider remote candidates in CA.
+
+In This Role, You’ll Get To
+
+Design, build, and deploy end-to-end AI/ML systems, including model workflows, data pipelines, and deployment architectures
+Develop and maintain reliable, scalable data pipelines for structured and unstructured data
+Write clean, maintainable, and well-tested code following software engineering best practices
+Work with cloud infrastructure, including containerization and orchestration tools
+Monitor, troubleshoot, and optimize AI workflows and data pipelines for performance and reliability
+Collaborate with cross-functional teams to integrate AI solutions into production systems
+
+We’re Looking For Talent Who
+
+Has strong programming and software engineering skills (Python, JavaScript, or similar languages)
+Has experience designing and maintaining AI/ML systems, workflows, and pipelines
+Has data engineering skills, including ETL processes and handling structured and unstructured data
+Has familiarity with cloud platforms (AWS, GCP, or Azure) and infrastructure concepts
+Has experience with containerization and orchestration tools (e.g., Docker, Kubernetes)
+Has hands-on experience with LLMs and prompt engineering
+Has ability to troubleshoot, optimize, and improve system performance and reliability
+Has strong collaboration skills, paired with the ability to work independently and learn quickly
+Has a minimum of a bachelors degree 
+Has a minimum of 3 years of experience 
+Owns and manages relationships with stakeholders directly and works effectively with people at all levels in an organization 
+
+Salary Range
+
+$108,245.00 - $169,933.00
+
+The pay listed in this posting indicates the estimated pay at the time of this posting; however, may vary depending on geographic location, job-related knowledge, skills, and experience. In addition, Orion offers a competitive benefits package which includes health, dental, vision, and disability coverage on day one, 401(k) plan with employer match, paid parental leave, pet benefits including pawternity leave and pet insurance, student loan repayment and more.
+
+About Us
+
+At Orion, we achieve our best work when we support one another, staying personally accountable to each other and the clients we serve. We create a welcoming environment where everyone is respected, valued, and heard. Our commitment to create raving fans ensures we consistently exceed client expectations. Thinking differently is in our DNA—we innovate always, push boundaries, and reject the status quo to deliver transformative outcomes. Together, we support one another and see it through to success, driving our collective achievements and those of our clients.

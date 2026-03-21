@@ -1,0 +1,43 @@
+Role Overview
+
+We are looking for an AI Full-Stack / Systems Engineer to build scalable backend services and platform components that power enterprise AI applications and agent-based workflows.
+The role focuses on LLM integrations, AI orchestration frameworks, RAG-based knowledge systems, and production-grade AI infrastructure used by multiple engineering teams.
+This engineer will work closely with platform, architecture, and application teams to build secure, reliable, and governed AI systems at enterprise scale.
+
+
+Key Responsibilities
+
+Build backend services supporting AI agents and multi-step AI workflows
+Develop LLM integration layers and model service APIs
+Implement RAG pipelines including document ingestion, embeddings, and vector retrieval
+Build orchestration frameworks connecting models, tools, and enterprise APIs
+Implement AI safety controls, guardrails, and policy enforcement
+Develop observability, monitoring, and cost tracking for AI systems
+Integrate AI systems with enterprise platforms and internal services
+
+
+Required Skills
+
+Strong backend engineering experience (Python preferred)
+Experience building distributed systems / microservices
+Hands-on experience with LLMs, RAG architectures, or AI agent frameworks
+Experience integrating AI APIs such as OpenAI, Anthropic, Bedrock, etc.
+Experience with cloud platforms (AWS preferred)
+Familiarity with vector databases, embeddings, and knowledge retrieval systems
+Experience with REST APIs, containerization (Docker), and modern backend frameworks
+
+
+Preferred Skills
+
+Experience with LangChain, LlamaIndex, or agent orchestration frameworks
+Experience building AI platform components or internal developer platforms
+Exposure to AI governance, guardrails, and evaluation frameworks
+Experience operating systems in enterprise or regulated environments
+
+
+Ideal Candidate
+
+5–10 years backend / platform engineering experience
+Hands-on experience building production AI systems
+Strong problem solving and distributed systems background
+Comfortable working in AWS cloud-native environments

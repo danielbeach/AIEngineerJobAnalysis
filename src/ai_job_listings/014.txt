@@ -1,0 +1,68 @@
+AI / ML Engineer (LLMs, Agents & Simulation Modeling)
+
+Location: Bellevue, WA (4+ days onsite)
+Role Type: Full-Time
+Start Date: ASAP
+Company: Watchtower Labs — https://www.watchtowerlabs.ai
+
+
+Company Overview
+
+Watchtower Labs is an early-stage, well-funded startup founded by leaders across national security operations, commercial technology investing, and large-scale distributed systems engineering. The team is building AI-native systems designed from the ground up for mission-critical environments, grounded in real-world workflows, human decision cycles, and collaborative operations. With guaranteed Department of Defense contracts, Watchtower applies frontier AI to problems where outcomes are measured in lives protected, missions completed, and logistics secured.
+
+
+Role Description
+
+As an AI / ML Engineer focused on LLMs, Agents, and Simulation Modeling, you will lead the integration of large language models into agentic workflows, simulation platforms, and real-time decision engines. This role sits at the intersection of applied AI, systems engineering, and operational decision-making. You’ll work on the bleeding edge of LLM-powered reasoning, embedding AI directly into systems that operate under uncertainty and high-stakes constraints. Your work will directly influence national security outcomes.
+
+
+Responsibilities
+
+Build and optimize agentic workflows powered by large language models
+Design and refine prompt engineering and reasoning architectures for embedded AI systems
+Integrate LLMs into simulation environments and real-time decision engines
+Partner closely with backend and simulation engineers to deploy models in production
+Apply AI techniques to guide decision-making in contested and dynamic environments
+Experiment with and contribute to novel approaches in AI-driven reasoning and autonomy
+Ensure reliability, performance, and safety of AI systems in mission-critical use cases
+
+
+Basic Qualifications
+
+3+ years of experience in AI/ML or applied data science roles
+Strong proficiency in Python for model development and experimentation
+Hands-on experience working with modern LLMs (e.g., OpenAI, Anthropic, or open-source stacks)
+Experience designing or integrating applied ML systems beyond offline experimentation
+Ability to operate with high ownership in an onsite, fast-moving startup environment
+
+
+Preferred Qualifications
+
+Familiarity with optimization techniques, simulation modeling, or autonomous agents
+Experience with decision modeling or reasoning systems
+Exposure to secure, regulated, or high-reliability environments
+Experience with C# or integration with backend systems
+Strong intuition for applying AI to real-world operational constraints
+
+
+Tech Stack
+
+Languages: Python (primary), C# (optional)
+AI/ML: Large Language Models, agentic workflows, reasoning architectures
+Systems: Simulation platforms, optimization frameworks, real-time decision engines
+
+
+Compensation & Benefits
+
+Base Salary: $170,000 - $200,000
+Equity: Early-stage equity 
+Benefits: Health, dental, and vision insurance; 401(k) plan
+Growth Path: Opportunity for expanded ownership and leadership as the company scales
+
+
+Additional Job Application Terms
+
+This job is part of LinkedIn’s Full-Service Hiring beta program. Eligibility is limited to candidates located in and performing services in the United States, excluding those based in Alaska, Hawaii, Nevada, South Carolina, or West Virginia.
+
+
+We’re committed to making our hiring process as smooth and timely as possible, and we understand that waiting to hear back can add to the anticipation. If you’re a potential fit, our team will reach out within two weeks to progress you to the next stage. If you don’t hear from us in that time, we encourage you to explore other opportunities with our team in the future, and we wish you the very best in your job search.
