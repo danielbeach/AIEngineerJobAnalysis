@@ -54,3 +54,10 @@ src/
 
 - [`clap`](https://github.com/clap-rs/clap) — CLI argument parsing
 - [`colored`](https://github.com/colored-rs/colored) — terminal colors
+
+![first](https://github.com/user-attachments/assets/5a926f06-b772-4443-852e-a8ad4f916ac1)
+
+![second](https://github.com/user-attachments/assets/4dfb9711-c5dc-4c5b-b362-d1eef6ee0dc7)
+
+
+
