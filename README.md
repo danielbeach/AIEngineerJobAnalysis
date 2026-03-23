@@ -1,6 +1,7 @@
 # AIJobs
 
 A Rust CLI tool for analyzing word frequencies across AI Engineer job descriptions to identify the most commonly required skills.
+This codebase was used against 30 job descriptions pulled from LinkedIn for "AI Engineer."
 
 ## Features
 
